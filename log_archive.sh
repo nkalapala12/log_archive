@@ -126,7 +126,7 @@ echo "Log: $ARCHIVE_LOG_FILE"
 
 print_status $GREEN "Archive process completed successfully!"
 
-# Optional: Ask if user wants to remove original logs (uncomment if needed)
+# Optional:if you need to remove original logs (uncomment it)
 # echo ""
 # read -p "Remove original log files? (y/N): " -n 1 -r
 # echo
