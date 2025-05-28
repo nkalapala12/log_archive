@@ -76,8 +76,10 @@ rm -rf "$LOG_DIRECTORY"/*
 🧑‍💻 Author
 
 Naveen Kalapala
+
 Feel free to reach out or contribute!
 
 
 
 
+https://roadmap.sh/projects/log-archive-tool
